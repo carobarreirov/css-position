@@ -1,0 +1,47 @@
+/* Static */
+div#myDivS {
+    position:static;
+    width:100 px;
+    height:100 px;
+    background:pink;
+    left:10 px;
+    top:100 px;
+  }
+/* Absolute */
+div#myDivA {
+    position:absolute;
+    width:100 px;
+    height:100 px;
+    background:yellow;
+    left:10 px;
+    top:100 px;
+  }
+/* Fixed */
+div#myDivF {
+    position:fixed;
+    width:100 px;
+    height:100 px;
+    background:green;
+    left:10 px;
+    top:100 px;
+  }
+
+/* Relative */
+div#myDivR {
+    position:relative;
+    width:100 px;
+    height:100 px;
+    background:blue;
+    left:10 px;
+    top:100 px;
+  }
+
+/* Initial */
+div#myDivI {
+    position:initial;
+    width:100 px;
+    height:100 px;
+    background:red;
+    left:10 px;
+    top:100 px;
+  }
